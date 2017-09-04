@@ -55,3 +55,20 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
+.socialicon {
+  width:50px; 
+  height:50px; 
+  /*background-position: 0px 10px;*/
+  background-repeat:no-repeat;
+}
+
+.twitter {
+  background-image: url("../img/social/twitter.png"); 
+}
+
+.instagram {
+  background-image: url('../img/social/instagram.png'); 
+}
+
+
