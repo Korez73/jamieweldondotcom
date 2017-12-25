@@ -2,28 +2,22 @@
     {
         "title": "Mow the lawn you lazy bugger",
         "project": "House Chores",
-        "elapsed": 5459274,
+        "elapsed": 5470500,
         "id": "0a4a79cb-b06d-4cb1-883d-549a1e3b66d7",
         "runningSince": null
-    },
-    {
-        "title": "Clear paper jam",
-        "project": "Office Chores",
-        "elapsed": 1273998,
-        "id": "a73c1d19-f32d-4aff-b470-cea4e792406a"
     },
     {
         "title": "Ponder origins of universe",
         "project": "Life Chores",
         "id": "2c43306e-5b44-4ff8-8753-33c35adbd06f",
-        "elapsed": 57584634498,
+        "elapsed": 57584646188,
         "runningSince": null
     },
     {
-        "title": "Talk to Corwin about stuff",
-        "project": "Dev Mgmt",
-        "id": "53f27521-512c-438e-a649-434eda6bed9c",
-        "elapsed": 2582,
+        "title": "Putz in the garage",
+        "project": "Clean things up for an hour",
+        "id": "9067da35-907e-488d-bda9-9fc81ddec6b6",
+        "elapsed": 0,
         "runningSince": null
     }
 ]
